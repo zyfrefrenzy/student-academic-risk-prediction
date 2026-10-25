@@ -1,0 +1,4 @@
+|--- Previous_grade <= 61.50
+|   |--- class: 1
+|--- Previous_grade >  61.50
+|   |--- class: 0
